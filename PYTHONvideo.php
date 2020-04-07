@@ -18,7 +18,7 @@ require("common.php");
       <!--Jquery CDN-->
        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
-       <!--Font Awesome-->
+       <!-- Font Awesome -->
        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
 
@@ -210,7 +210,7 @@ require("common.php");
                <!-- Grid column -->
                       <div class="col-md-7 col-lg-8">
                <!--Copyright-->
-                        <p class="text-md-left">© 2018 Copyright:
+                        <p class="text-md-left">Â© 2018 Copyright:
                            <a href="https://mdbootstrap.com/education/bootstrap/">
                               <strong> Versatile.com</strong>
                          </a>
