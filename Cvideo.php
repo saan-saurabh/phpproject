@@ -210,7 +210,7 @@ require("common.php");
                <!-- Grid column -->
                       <div class="col-md-7 col-lg-8">
                <!--Copyright-->
-                        <p class="text-md-left">© 2018 Copyright:
+                        <p class="text-md-left">Â© 2018 Copyright:
                            <a href="https://mdbootstrap.com/education/bootstrap/">
                               <strong> Versatile.com</strong>
                          </a>
@@ -218,7 +218,6 @@ require("common.php");
                   </div>
              <!-- Grid column -->
 
-               <!-- Grid column -->
                     <div class="col-md-5 col-lg-4 ml-lg-0">
                 <!-- Social buttons -->
                      <div class="text-center text-md-right">
@@ -233,6 +232,7 @@ require("common.php");
                                   <i class="fab fa-twitter"></i>
                              </a>
                          </li>
+			       
                              <li class="list-inline-item">
                                <a class="btn-floating btn-sm rgba-white-slight mx-1">
                                    <i class="fab fa-google-plus-g"></i>
