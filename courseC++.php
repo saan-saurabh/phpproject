@@ -15,7 +15,7 @@ if (!isset($_SESSION['email']))
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <meta http-equive="X-UA-Compatible" content="ie=edge">
 
-    <!--Bootstrap Css-->
+    <!-- Bootstrap Css -->
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"   
       integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
       <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> -->
@@ -171,7 +171,7 @@ Duration: 6 Weeks | Certified Training| Enrolled Students: 10,233
                <!-- Grid column -->
                       <div class="col-md-7 col-lg-8">
                <!--Copyright-->
-                        <p class="text-center text-md-left">© 2018 Copyright:
+                        <p class="text-center text-md-left">Â© 2018 Copyright:
                            <a href="https://mdbootstrap.com/education/bootstrap/">
                               <strong> Versatile.com</strong>
                          </a>
