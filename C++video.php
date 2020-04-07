@@ -1,4 +1,5 @@
 <?php
+//for connection
 require("common.php");
 ?>
 <!DOCTYPE html>
@@ -210,7 +211,7 @@ require("common.php");
                <!-- Grid column -->
                       <div class="col-md-7 col-lg-8">
                <!--Copyright-->
-                        <p class="text-md-left">© 2018 Copyright:
+                        <p class="text-md-left">Â© 2018 Copyright:
                            <a href="https://mdbootstrap.com/education/bootstrap/">
                               <strong> Versatile.com</strong>
                          </a>
