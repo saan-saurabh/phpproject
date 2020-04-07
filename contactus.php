@@ -25,7 +25,7 @@ require("common.php");
 	   <!--Goggle Font-->
   <link href="https://fonts.googleapis.com/css?family=Ubuntu&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Oxygen&display=swap" rel="stylesheet">
-	   <!-- end Goggle Font-->
+	   <!--end Goggle Font-->
      <!--costom CSS-->
    <link rel="stylesheet" type="text/css" href="index.css">
    <!--costom JavaScript-->
@@ -151,7 +151,7 @@ require("common.php");
                <!-- Grid column -->
                       <div class="col-md-7 col-lg-8">
                <!--Copyright-->
-                        <p class="text-center text-md-left">© 2018 Copyright:
+                        <p class="text-center text-md-left">Â© 2018 Copyright:
                            <a href="https://mdbootstrap.com/education/bootstrap/">
                               <strong> Versatile.com</strong>
                          </a>
