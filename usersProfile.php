@@ -204,7 +204,7 @@ integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07j
                <!-- Grid column -->
                       <div class="col-md-7 col-lg-8">
                <!--Copyright-->
-                        <p class="text-md-left">© 2018 Copyright:
+                        <p class="text-md-left">© 2020 Copyright:
                            <a href="https://mdbootstrap.com/education/bootstrap/">
                               <strong> Versatile.com</strong>
                          </a>
