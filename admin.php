@@ -135,10 +135,10 @@ $query="SELECT * from user_course";
       </tbody>
       </table>
     </div>
-    <div class="col-sm-6">
+    <!--<div class="col-sm-6">
     <h2>Instructors Available</h2>
       <p>jo bhi instructors hai uske details</p>
-    </div>
+    </div>-->
   </div>
 </div>
 
